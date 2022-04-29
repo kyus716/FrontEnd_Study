@@ -1,0 +1,24 @@
+{
+  "name": "study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mains.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyus716/FrontEnd_Study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyus716/FrontEnd_Study/issues"
+  },
+  "homepage": "https://github.com/kyus716/FrontEnd_Study#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
